@@ -18,9 +18,16 @@ Currently, the app has the following features:
 
 2. Dashboard page with department list
 
+<img src="https://puu.sh/HpU1i/18d6619689.png" alt="image" />
+
 3. Department detailed view with all employees listed
 
+<img src="https://puu.sh/HpU2O/2513685e2f.png" alt="image" />
+
 4. Ability to delete employees or edit their details
+
+<img src="https://puu.sh/HpU3d/bbf70c6484.png" alt="image" />
+
 ---
 
 ### Purpose
